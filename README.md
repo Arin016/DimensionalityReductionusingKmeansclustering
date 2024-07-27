@@ -32,7 +32,7 @@ Improved activity recognition models using high-dimensional sensor data from sma
 - **Feature Reduction:** Streamlined the feature set from 561 to 50, leveraging k-means clustering to maintain essential information and discard redundancy.
 - **Activity Recognition:** Utilized the reduced feature set to build robust models for Human Activity Recognition using smartphone sensor data.
 
-## Resume Bullet Points
+## Bullet Points
 - Developed and implemented a k-means clustering approach for dimensionality reduction, improving activity recognition model accuracy from 73.15% to 78.59%.
 - Achieved a 92% reduction in model training time by effectively selecting representative features from clusters, enhancing computational efficiency.
 - Streamlined feature set from 561 to 50, simplifying the model and improving interpretability without sacrificing performance.
