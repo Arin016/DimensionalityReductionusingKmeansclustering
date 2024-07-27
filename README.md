@@ -38,7 +38,4 @@ Improved activity recognition models using high-dimensional sensor data from sma
 - Streamlined feature set from 561 to 50, simplifying the model and improving interpretability without sacrificing performance.
 - Built accurate Human Activity Recognition (HAR) models using high-dimensional smartphone sensor data, demonstrating advanced machine learning techniques for real-world applications.
 
-## How to Use
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/Dimensionality-Reduction-KMeans-Activity-Recognition.git
+
